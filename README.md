@@ -9,7 +9,7 @@
 `uvicorn node:app --reload --port 8001`
 
 ### Open new terminal and run the script
-`streamlit run client.py`
+`streamlit run Dashboard.py`
 
 ## To stop:
 ### Go to each terminal and hit `Ctrl + C`
