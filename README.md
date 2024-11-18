@@ -9,7 +9,7 @@ that it can digest incoming live-data stream to provide instant predictions to s
 letting the company to save up considerable amounts of money due to avoiding downtimes and producing defective products.
 
 ## Implementation
-![System schema](model_to_production_v2.png "System Schema")
+![System schema](model_to_production_v2.png "System Schema")   
 The project consists of three main components, namely: server, dashboard, and node.
 ### Server
 Server uses the pre-trained model loaded from a file, processes incoming data and returns predictions, as well as stores 
