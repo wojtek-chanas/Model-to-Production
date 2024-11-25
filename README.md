@@ -31,13 +31,13 @@ from the mean were labeled as anomalous.
 
 ## Run these commands in the terminal (requires 3 instances of terminal running)
 
-### Open new terminal and run the script
+### Open new terminal and run the command
 `uvicorn server:app --reload --port 8000`
 
-### Open new terminal and run the script
+### Open new terminal and run the command
 `uvicorn node:app --reload --port 8001`
 
-### Open new terminal and run the script
+### Open new terminal and run the command
 `streamlit run Dashboard.py`
 
 ## To stop:
